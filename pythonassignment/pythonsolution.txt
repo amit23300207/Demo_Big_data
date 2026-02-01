@@ -1,0 +1,4 @@
+q1. what is the python
+ans python is a interpreter language and programming language
+ Q2. what is a compiler 
+ans compiler is a conde converter from code to machine language
